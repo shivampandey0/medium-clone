@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /sanitymedium/node_modules
+/sanitymedium/dist
 /.pnp
 .pnp.js
 
